@@ -1,6 +1,8 @@
 # SweLL-release v2
 Updated documentation of SweLL corpora and SweLL-derived datasets (as of January 2026)
 
+<!-- we should decide what to include into this repository. See the previous repository for SweLL release v1: https://github.com/spraakbanken/swell-release-v1/ -->
+
 <!--Online version: [https://spraakbanken.github.io/swell-release-v2/](https://spraakbanken.github.io/swell-release-v2/)->>
 
 <!--Files included in this repository are intended for inclusion (as links) into the downloadable SweLL-gold and SweLL-pilot zip-files. Those links can be found in the readme files for each corpus, as well as seen in the L2 Korp on an information sidebar.  
